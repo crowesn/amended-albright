@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#  ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="p9781947602496">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title id='t1'>Exploring the Architecture of Place in America&#8217;s Farmers Markets</dc:title>
+<meta refines='#t1' property="title-type">main</meta>
+<dc:creator id="creator">Kathryn Clarke Albright</dc:creator>
+<meta property="role" scheme="marc:relators" refines="#creator">aut</meta>
+<meta property="file-as" refines="#creator">Kathryn Clarke Albright</meta>
+<meta property="display-seq" refines="#creator">1</meta>
+<dc:source id="src-id">urn:isbn:9781947602496</dc:source>
+<meta refines="#src-id" property="identifier-type" scheme="onix:codelist5">15</meta>
+<dc:identifier id="p9781947602496">urn:isbn:9781947602496</dc:identifier>
+<meta refines="p9781947602496" property="identifier-type" scheme="onix:codelist5">15</meta>
+<dc:date id="published">2020-02-24</dc:date>
+<meta property="dcterms:modified">2020-02-24T18:18:11Z</meta>
+<dc:language>en</dc:language>
+<dc:rights>Copyright &#169; 2020</dc:rights>
+<dc:publisher>The University of Cincinnati Press</dc:publisher>
+<meta name="cover" content="cover-image"/>
+<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessMode">visual</meta>
+<meta property="schema:accessModeSufficient">textual,visual</meta>
+<meta property="schema:accessModeSufficient">textual</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">MathML</meta>
+<meta property="schema:accessibilityFeature">alternativeText</meta>
+<meta property="schema:accessibilityFeature">longDescriptions</meta>
+<meta property="schema:accessibilityAPI">ARIA</meta>
+<meta property="schema:accessibilityControl">fullKeyboardControl</meta>
+<meta property="schema:accessibilityControl">fullMouseControl</meta>
+<meta property="schema:accessibilityControl">fullTouchControl</meta>
+<meta property="schema:accessibilityHazard">noFlashing</meta>
+<meta property="schema:accessibilityHazard">noSound</meta>
+<meta property="schema:accessibilityHazard">noMotionSimulation</meta>
+</metadata>
+<manifest>
+<item id="stylesheet" href="styles/template.css" media-type="text/css"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="toc-nav" href="xhtml/nav.xhtml" properties="nav" media-type="application/xhtml+xml"/>
+<item id="cover" href="xhtml/cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="Halftitle" href="xhtml/01_Halftitle.xhtml" media-type="application/xhtml+xml"/>
+<item id="Title" href="xhtml/02_Title.xhtml" media-type="application/xhtml+xml"/>
+<item id="Copyright" href="xhtml/03_Copyright.xhtml" media-type="application/xhtml+xml"/>
+<item id="Contents" href="xhtml/04_Contents.xhtml" media-type="application/xhtml+xml"/>
+<item id="Dedication" href="xhtml/05_Dedication.xhtml" media-type="application/xhtml+xml"/>
+<item id="Preface" href="xhtml/06_Preface.xhtml" media-type="application/xhtml+xml"/>
+<item id="Front" href="xhtml/07_Front.xhtml" media-type="application/xhtml+xml"/>
+<item id="Introduction" href="xhtml/08_Introduction.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter1" href="xhtml/09_Chapter1.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter2" href="xhtml/10_Chapter2.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter3" href="xhtml/11_Chapter3.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter4" href="xhtml/12_Chapter4.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter5" href="xhtml/13_Chapter5.xhtml" media-type="application/xhtml+xml"/>
+<item id="Conclusion" href="xhtml/14_Conclusion.xhtml" media-type="application/xhtml+xml"/>
+<item id="Notes" href="xhtml/15_Notes.xhtml" media-type="application/xhtml+xml"/>
+<item id="Credit" href="xhtml/16_Credit.xhtml" media-type="application/xhtml+xml"/>
+<item id="Work" href="xhtml/17_Work.xhtml" media-type="application/xhtml+xml"/>
+<item id="Read" href="xhtml/18_Read.xhtml" media-type="application/xhtml+xml"/>
+<item id="Web" href="xhtml/19_Web.xhtml" media-type="application/xhtml+xml"/>
+<item id="Index" href="xhtml/20_Index.xhtml" media-type="application/xhtml+xml"/>
+<item id="Author" href="xhtml/21_Author.xhtml" media-type="application/xhtml+xml"/>
+<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+<item id="img_p101" href="images/img_p101.jpg" media-type="image/jpeg"/>
+<item id="img_p102" href="images/img_p102.jpg" media-type="image/jpeg"/>
+<item id="img_p103" href="images/img_p103.jpg" media-type="image/jpeg"/>
+<item id="img_p106-1" href="images/img_p106-1.jpg" media-type="image/jpeg"/>
+<item id="img_p106-2" href="images/img_p106-2.jpg" media-type="image/jpeg"/>
+<item id="img_p106-3" href="images/img_p106-3.jpg" media-type="image/jpeg"/>
+<item id="img_p112" href="images/img_p112.jpg" media-type="image/jpeg"/>
+<item id="img_p113-1" href="images/img_p113-1.jpg" media-type="image/jpeg"/>
+<item id="img_p113-2" href="images/img_p113-2.jpg" media-type="image/jpeg"/>
+<item id="img_p115-1" href="images/img_p115-1.jpg" media-type="image/jpeg"/>
+<item id="img_p115-2" href="images/img_p115-2.jpg" media-type="image/jpeg"/>
+<item id="img_p116-1" href="images/img_p116-1.jpg" media-type="image/jpeg"/>
+<item id="img_p116-2" href="images/img_p116-2.jpg" media-type="image/jpeg"/>
+<item id="img_p121-1" href="images/img_p121-1.jpg" media-type="image/jpeg"/>
+<item id="img_p121-2" href="images/img_p121-2.jpg" media-type="image/jpeg"/>
+<item id="img_p124" href="images/img_p124.jpg" media-type="image/jpeg"/>
+<item id="img_p127" href="images/img_p127.jpg" media-type="image/jpeg"/>
+<item id="img_p129" href="images/img_p129.jpg" media-type="image/jpeg"/>
+<item id="img_p131-1" href="images/img_p131-1.jpg" media-type="image/jpeg"/>
+<item id="img_p131-2" href="images/img_p131-2.jpg" media-type="image/jpeg"/>
+<item id="img_p134" href="images/img_p134.jpg" media-type="image/jpeg"/>
+<item id="img_p136" href="images/img_p136.jpg" media-type="image/jpeg"/>
+<item id="img_p138" href="images/img_p138.jpg" media-type="image/jpeg"/>
+<item id="img_p139-1" href="images/img_p139-1.jpg" media-type="image/jpeg"/>
+<item id="img_p139-2" href="images/img_p139-2.jpg" media-type="image/jpeg"/>
+<item id="img_p14" href="images/img_p14.jpg" media-type="image/jpeg"/>
+<item id="img_p140" href="images/img_p140.jpg" media-type="image/jpeg"/>
+<item id="img_p149" href="images/img_p149.jpg" media-type="image/jpeg"/>
+<item id="img_p150-1" href="images/img_p150-1.jpg" media-type="image/jpeg"/>
+<item id="img_p150-2" href="images/img_p150-2.jpg" media-type="image/jpeg"/>
+<item id="img_p154" href="images/img_p154.jpg" media-type="image/jpeg"/>
+<item id="img_p155" href="images/img_p155.jpg" media-type="image/jpeg"/>
+<item id="img_p165-1" href="images/img_p165-1.jpg" media-type="image/jpeg"/>
+<item id="img_p165-2" href="images/img_p165-2.jpg" media-type="image/jpeg"/>
+<item id="img_p17-1" href="images/img_p17-1.jpg" media-type="image/jpeg"/>
+<item id="img_p17-2" href="images/img_p17-2.jpg" media-type="image/jpeg"/>
+<item id="img_p19-1" href="images/img_p19-1.jpg" media-type="image/jpeg"/>
+<item id="img_p19-2" href="images/img_p19-2.jpg" media-type="image/jpeg"/>
+<item id="img_p19-3" href="images/img_p19-3.jpg" media-type="image/jpeg"/>
+<item id="img_p20-1" href="images/img_p20-1.jpg" media-type="image/jpeg"/>
+<item id="img_p20-2" href="images/img_p20-2.jpg" media-type="image/jpeg"/>
+<item id="img_p21" href="images/img_p21.jpg" media-type="image/jpeg"/>
+<item id="img_p22-1" href="images/img_p22-1.jpg" media-type="image/jpeg"/>
+<item id="img_p22-2" href="images/img_p22-2.jpg" media-type="image/jpeg"/>
+<item id="img_p23-1" href="images/img_p23-1.jpg" media-type="image/jpeg"/>
+<item id="img_p23-2" href="images/img_p23-2.jpg" media-type="image/jpeg"/>
+<item id="img_p25-1" href="images/img_p25-1.jpg" media-type="image/jpeg"/>
+<item id="img_p25-2" href="images/img_p25-2.jpg" media-type="image/jpeg"/>
+<item id="img_p27" href="images/img_p27.jpg" media-type="image/jpeg"/>
+<item id="img_p32" href="images/img_p32.jpg" media-type="image/jpeg"/>
+<item id="img_p33-1" href="images/img_p33-1.jpg" media-type="image/jpeg"/>
+<item id="img_p33-2" href="images/img_p33-2.jpg" media-type="image/jpeg"/>
+<item id="img_p35" href="images/img_p35.jpg" media-type="image/jpeg"/>
+<item id="img_p36" href="images/img_p36.jpg" media-type="image/jpeg"/>
+<item id="img_p37" href="images/img_p37.jpg" media-type="image/jpeg"/>
+<item id="img_p4-1" href="images/img_p4-1.jpg" media-type="image/jpeg"/>
+<item id="img_p4" href="images/img_p4.jpg" media-type="image/jpeg"/>
+<item id="img_p3" href="images/img_p3.jpg" media-type="image/jpeg"/>
+<item id="img_p3-1" href="images/img_p3-1.jpg" media-type="image/jpeg"/>
+<item id="img_p40" href="images/img_p40.jpg" media-type="image/jpeg"/>
+<item id="img_p41" href="images/img_p41.jpg" media-type="image/jpeg"/>
+<item id="img_p44" href="images/img_p44.jpg" media-type="image/jpeg"/>
+<item id="img_p48-1" href="images/img_p48-1.jpg" media-type="image/jpeg"/>
+<item id="img_p48-2" href="images/img_p48-2.jpg" media-type="image/jpeg"/>
+<item id="img_p49" href="images/img_p49.jpg" media-type="image/jpeg"/>
+<item id="img_p51" href="images/img_p51.jpg" media-type="image/jpeg"/>
+<item id="img_p52" href="images/img_p52.jpg" media-type="image/jpeg"/>
+<item id="img_p53" href="images/img_p53.jpg" media-type="image/jpeg"/>
+<item id="img_p55" href="images/img_p55.jpg" media-type="image/jpeg"/>
+<item id="img_p56" href="images/img_p56.jpg" media-type="image/jpeg"/>
+<item id="img_p60" href="images/img_p60.jpg" media-type="image/jpeg"/>
+<item id="img_p61" href="images/img_p61.jpg" media-type="image/jpeg"/>
+<item id="img_p62" href="images/img_p62.jpg" media-type="image/jpeg"/>
+<item id="img_p64" href="images/img_p64.jpg" media-type="image/jpeg"/>
+<item id="img_p65" href="images/img_p65.jpg" media-type="image/jpeg"/>
+<item id="img_p66" href="images/img_p66.jpg" media-type="image/jpeg"/>
+<item id="img_p69" href="images/img_p69.jpg" media-type="image/jpeg"/>
+<item id="img_p70" href="images/img_p70.jpg" media-type="image/jpeg"/>
+<item id="img_p71" href="images/img_p71.jpg" media-type="image/jpeg"/>
+<item id="img_p72-1" href="images/img_p72-1.jpg" media-type="image/jpeg"/>
+<item id="img_p72-2" href="images/img_p72-2.jpg" media-type="image/jpeg"/>
+<item id="img_p72-3" href="images/img_p72-3.jpg" media-type="image/jpeg"/>
+<item id="img_p76-1" href="images/img_p76-1.jpg" media-type="image/jpeg"/>
+<item id="img_p76-2" href="images/img_p76-2.jpg" media-type="image/jpeg"/>
+<item id="img_p81-1" href="images/img_p81-1.jpg" media-type="image/jpeg"/>
+<item id="img_p81-2" href="images/img_p81-2.jpg" media-type="image/jpeg"/>
+<item id="img_p83-1" href="images/img_p83-1.jpg" media-type="image/jpeg"/>
+<item id="img_p83-2" href="images/img_p83-2.jpg" media-type="image/jpeg"/>
+<item id="img_p86" href="images/img_p86.jpg" media-type="image/jpeg"/>
+<item id="img_p87" href="images/img_p87.jpg" media-type="image/jpeg"/>
+<item id="img_p89" href="images/img_p89.jpg" media-type="image/jpeg"/>
+<item id="img_p91" href="images/img_p91.jpg" media-type="image/jpeg"/>
+<item id="img_p93" href="images/img_p93.jpg" media-type="image/jpeg"/>
+<item id="img_p94-1" href="images/img_p94-1.jpg" media-type="image/jpeg"/>
+<item id="img_p94-2" href="images/img_p94-2.jpg" media-type="image/jpeg"/>
+<item id="img_p94-3" href="images/img_p94-3.jpg" media-type="image/jpeg"/>
+<item id="img_p97" href="images/img_p97.jpg" media-type="image/jpeg"/>
+<item id="img_p99" href="images/img_p99.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover" linear="yes"/>
+<itemref idref="Halftitle" linear="yes"/>
+<itemref idref="Title" linear="yes"/>
+<itemref idref="Copyright" linear="yes"/>
+<itemref idref="Contents" linear="yes"/>
+<itemref idref="Dedication" linear="yes"/>
+<itemref idref="Preface" linear="yes"/>
+<itemref idref="Front" linear="yes"/>
+<itemref idref="Introduction" linear="yes"/>
+<itemref idref="Chapter1" linear="yes"/>
+<itemref idref="Chapter2" linear="yes"/>
+<itemref idref="Chapter3" linear="yes"/>
+<itemref idref="Chapter4" linear="yes"/>
+<itemref idref="Chapter5" linear="yes"/>
+<itemref idref="Conclusion" linear="yes"/>
+<itemref idref="Notes" linear="yes"/>
+<itemref idref="Credit" linear="yes"/>
+<itemref idref="Work" linear="yes"/>
+<itemref idref="Read" linear="yes"/>
+<itemref idref="Web" linear="yes"/>
+<itemref idref="Index" linear="yes"/>
+<itemref idref="Author" linear="yes"/>
+</spine>
+<guide>
+<reference type="cover" title="Cover" href="xhtml/cover.xhtml"/>
+<reference type="toc" title="Table of Contents" href="xhtml/04_Contents.xhtml"/>
+</guide>
+</package>
